@@ -1,5 +1,5 @@
 {
-  "name": "cli-todo-list",
+  "name": "aui-cli-todo-list",
   "version": "1.0.0",
   "description": "This Is A CLI Based ToDo List Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-todo-list'",
   "main": "main.js",
